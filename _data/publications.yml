@@ -8,7 +8,7 @@ main:
     image: ./assets/img/kidney.gif
     notes: Coding
 
-  - title: "$\mathbb{U}_p$, $\mathbb{U}_{p^k}$, and $\mathbb{U}_{2p^k}$ are cyclic"
+  - title: "$$\\mathbb{U}_p$$, $$\\mathbb{U}_{p^k}$$, and $$\\mathbb{U}_{2p^k}$$ are cyclic"
     authors: Matthew Li and Zack Yu
     pdf: ./assets/files/cyclic.pdf
     conference: Ross Mathematics Program
