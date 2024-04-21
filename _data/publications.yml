@@ -4,13 +4,20 @@ main:
     authors: Matthew Li
     pdf: #
     code: https://github.com/mattqlf/blood-vessel-segmentation
-    conference: Kaggle
+    conference: Kaggle (2024)
     image: ./assets/img/kidney.gif
     notes: Coding
 
-  - title: "$$\\mathbb{U}_p$$, $$\\mathbb{U}_{p^k}$$, and $$\\mathbb{U}_{2p^k}$$ are cyclic"
+  - title: "$\\mathbb{U}_p$$, $$\\mathbb{U}_{p^k}$, and $\\mathbb{U}_{2p^k}$ are cyclic"
     authors: Matthew Li and Zack Yu
     pdf: ./assets/files/cyclic.pdf
-    conference: Ross Mathematics Program
+    conference: Ross Mathematics Program (2023)
     notes: Oral Presentation
     image: ./assets/img/presentation.png
+
+  - title: "From the Axioms: Proof that UFT holds in $\\mathbb{Z}$"
+    authors: Matthew Li and Evelyn Song
+    pdf: ./assets/files/FTA.pdf
+    conference: Ross Mathematics Program (2023)
+    notes: Expository Paper
+    image: ./assets/img/fta.png
