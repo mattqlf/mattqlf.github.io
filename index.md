@@ -4,19 +4,19 @@ layout: homepage
 
 ## About Me
 
-I am a junior attending Troy High School. I enjoy mathematics and I am working toward a future in machine learning where I plan to bridge the gap between theoretical elegance and practical utility. 
+I am a junior attending Troy High School and I interested in both machine learning and mathematics. 
 
 ## Interests
 
-- "Look ma, no labels!" (Unsupervised, Self-Supervised, and Weakly Supervised Learning)
-- Using the above for representation learning 
-- Applications of above to computer vision 
+- Computer vision
+- Self supervised learning
+- Representation learning
 
 {% include_relative _includes/projects.md %}
 
 ## Honors and Awards
 
-- **[2023]** Accepted to the Ross Mathematics Program
+- **[2023, 2024]** Accepted to the Ross Mathematics Program and reinvited as Junior Counselor
 - **[2021, 2022, 2023]** Qualified for the American Invitational Mathematics Exam (AIME)
 - **[2023]** Reached the USA Computing Olympiad (USACO) Silver division
 
