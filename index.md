@@ -8,9 +8,10 @@ I am a junior attending Troy High School and I interested in both machine learni
 
 ## Interests
 
-- Computer vision
-- Self supervised learning
-- Representation learning
+Here's a short list of my most recent interests. Bound to change in a month.
+
+- AI Safety (specifically LLM alignment)
+- Machine reasoning
 
 {% include_relative _includes/projects.md %}
 
