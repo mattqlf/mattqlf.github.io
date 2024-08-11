@@ -12,7 +12,7 @@ canonical: https://mattqlf.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-cv_link: assets/files/CV.pdf
+# cv_link: assets/files/CV.pdf
 github_link: https://github.com/mattqlf
 linkedin: https://www.linkedin.com/in/litech/
 
@@ -47,9 +47,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-  - README_zh_Hans.md
-  - README_zh_Hant.md
-  - README_de.md
   - LICENSE
   - minimal-light.gemspec
   - html_source_file/
