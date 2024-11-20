@@ -28,7 +28,7 @@ main:
 
   - title: "SenNet + HOA - Hacking the Human Vasculature in 3D"
     authors: Matthew Li
-    pdf: #
+    pdf: "./assets/files/vessel_segmentation_slides.pdf"
     code: https://github.com/mattqlf/blood-vessel-segmentation
     conference: Kaggle (2024)
     image: ./assets/img/kidney.gif
