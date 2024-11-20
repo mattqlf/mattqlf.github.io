@@ -1,4 +1,30 @@
 main:
+  - title : "Introduction to Statistical Learning Theory"
+    authors: Matthew Li
+    pdf: "./assets/files/Introduction to Statistical Learning.pdf"
+    image: #
+    notes: Math, Machine Learning, Presentation
+
+  - title : "2-Layer Multilayer Perceptron From Scratch"
+    authors: Matthew Li
+    pdf: #
+    code: https://colab.research.google.com/drive/1870Xks9z5U2_F5VyX9wmAd2VEx3W3xVF?usp=sharing
+    image: #
+    notes: Machine Learning, Code
+
+  - title : "Enhancing Large Language Model Teaching Ability Via Directed Acylic Graphs and Insights"
+    authors: Sanchi Deshpande, Matthew Li, Michael Li, Eesh Pant
+    pdf: "./assets/files/AI Research.pdf"
+    conference: "NeurIPS High School Track"
+    image: #
+    notes: Machine Learning, Research
+
+  - title : "Density of Visible Points From The Origin"
+    authors: Matthew Li and Jocelyn Wang
+    pdf: "./assets/files/Visible Lattice Points.pdf"
+    conference: Ross Mathematics Program (2024)
+    image: #
+    notes: Math, Presentation
 
   - title: "SenNet + HOA - Hacking the Human Vasculature in 3D"
     authors: Matthew Li
@@ -6,18 +32,18 @@ main:
     code: https://github.com/mattqlf/blood-vessel-segmentation
     conference: Kaggle (2024)
     image: ./assets/img/kidney.gif
-    notes: Coding
+    notes: Machine Learning, Research
 
   - title: "$\\mathbb{U}_p$$, $$\\mathbb{U}_{p^k}$, and $\\mathbb{U}_{2p^k}$ are cyclic"
     authors: Matthew Li and Zack Yu
     pdf: ./assets/files/cyclic.pdf
     conference: Ross Mathematics Program (2023)
-    notes: Oral Presentation
+    notes: Math, Presentation
     image: ./assets/img/presentation.png
 
   - title: "From the Axioms: Proof that UFT holds in $\\mathbb{Z}$"
     authors: Matthew Li and Evelyn Song
     pdf: ./assets/files/FTA.pdf
     conference: Ross Mathematics Program (2023)
-    notes: Expository Paper
+    notes: Math, Expository Paper
     image: ./assets/img/fta.png

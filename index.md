@@ -10,9 +10,8 @@ I am a rising senior attending Troy High School and I am interested in both math
 
 Here's a short list of my most recent interests.
 
-- Number Theory
-- Probability Theory
-- Deep Learning
+- Theoretical Deep Learning
+- Interpretability
 
 {% include_relative _includes/projects.md %}
 
