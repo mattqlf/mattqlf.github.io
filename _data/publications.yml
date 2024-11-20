@@ -2,33 +2,33 @@ main:
   - title : "Introduction to Statistical Learning Theory"
     authors: Matthew Li
     pdf: "./assets/files/Introduction to Statistical Learning.pdf"
-    image: #
+    image: "./assets/img/stat.png"
     notes: Math, Machine Learning, Presentation
 
   - title : "2-Layer Multilayer Perceptron From Scratch"
     authors: Matthew Li
-    pdf: #
+    pdf: https://colab.research.google.com/drive/1870Xks9z5U2_F5VyX9wmAd2VEx3W3xVF?usp=sharing
     code: https://colab.research.google.com/drive/1870Xks9z5U2_F5VyX9wmAd2VEx3W3xVF?usp=sharing
-    image: #
+    image: "./assets/img/perceptron.png"
     notes: Machine Learning, Code
 
   - title : "Enhancing Large Language Model Teaching Ability Via Directed Acylic Graphs and Insights"
     authors: Sanchi Deshpande, Matthew Li, Michael Li, Eesh Pant
     pdf: "./assets/files/AI Research.pdf"
     conference: "NeurIPS High School Track"
-    image: #
+    image: "./assets/img/llm.png"
     notes: Machine Learning, Research
 
   - title : "Density of Visible Points From The Origin"
     authors: Matthew Li and Jocelyn Wang
     pdf: "./assets/files/Visible Lattice Points.pdf"
     conference: Ross Mathematics Program (2024)
-    image: #
+    image: "./assets/img/density.png"
     notes: Math, Presentation
 
   - title: "SenNet + HOA - Hacking the Human Vasculature in 3D"
     authors: Matthew Li
-    pdf: #
+    pdf: https://github.com/mattqlf/blood-vessel-segmentation
     code: https://github.com/mattqlf/blood-vessel-segmentation
     conference: Kaggle (2024)
     image: ./assets/img/kidney.gif

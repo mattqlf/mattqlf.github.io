@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a rising senior attending Troy High School and I am interested in both mathematics and machine learning. 
+I am a senior attending Troy High School and I am interested in both mathematics and machine learning. 
 
 ## Interests
 
