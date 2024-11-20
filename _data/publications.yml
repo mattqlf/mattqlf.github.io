@@ -7,7 +7,7 @@ main:
 
   - title : "2-Layer Multilayer Perceptron From Scratch"
     authors: Matthew Li
-    pdf: https://colab.research.google.com/drive/1870Xks9z5U2_F5VyX9wmAd2VEx3W3xVF?usp=sharing
+    pdf: #
     code: https://colab.research.google.com/drive/1870Xks9z5U2_F5VyX9wmAd2VEx3W3xVF?usp=sharing
     image: "./assets/img/perceptron.png"
     notes: Machine Learning, Code
@@ -28,7 +28,7 @@ main:
 
   - title: "SenNet + HOA - Hacking the Human Vasculature in 3D"
     authors: Matthew Li
-    pdf: https://github.com/mattqlf/blood-vessel-segmentation
+    pdf: #
     code: https://github.com/mattqlf/blood-vessel-segmentation
     conference: Kaggle (2024)
     image: ./assets/img/kidney.gif
