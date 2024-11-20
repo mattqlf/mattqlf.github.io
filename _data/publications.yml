@@ -1,7 +1,7 @@
 main:
   - title : "Introduction to Statistical Learning Theory"
     authors: Matthew Li
-    pdf: "./assets/files/Introduction to Statistical Learning.pdf"
+    pdf: "./assets/files/intro_stat_learning.pdf"
     image: "./assets/img/stat.png"
     notes: Math, Machine Learning, Presentation
 
@@ -14,14 +14,14 @@ main:
 
   - title : "Enhancing Large Language Model Teaching Ability Via Directed Acylic Graphs and Insights"
     authors: Sanchi Deshpande, Matthew Li, Michael Li, Eesh Pant
-    pdf: "./assets/files/AI Research.pdf"
+    pdf: "./assets/files/ai_research.pdf"
     conference: "NeurIPS High School Track"
     image: "./assets/img/llm.png"
     notes: Machine Learning, Research
 
   - title : "Density of Visible Points From The Origin"
     authors: Matthew Li and Jocelyn Wang
-    pdf: "./assets/files/Visible Lattice Points.pdf"
+    pdf: "./assets/files/visible_lattice_points.pdf"
     conference: Ross Mathematics Program (2024)
     image: "./assets/img/density.png"
     notes: Math, Presentation
